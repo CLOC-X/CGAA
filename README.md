@@ -3,7 +3,7 @@
 <div align="center">
 
 <br>
-  <img width="100%" alt="CVF" src="./model.jpg">
+  <img width="100%" alt="CVF" src="./model.png">
 </div>
 
 <!-- ## Abastract -->
