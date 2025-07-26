@@ -1,4 +1,4 @@
-## CLIP-ViT based Multi-Modal Fusion with Affinity Alignment for Weakly Supervised Semantic Segmentation
+## Class-Specific Guided Affinity Alignment for Weakly Supervised Semantic Segmentation
 
 <div align="center">
 
