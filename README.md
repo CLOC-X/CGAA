@@ -7,7 +7,7 @@
 </div>
 
 <!-- ## Abastract -->
-we propose a new model named as CLIP-ViT Fusion (CVF) to address the challenge by integrating the cross-modal prior knowledge of CLIP with multi-level class-specific discriminative representations of ViTs.
+we propose a new model named as  Class-Specific Guided Affinity Alignment (CGAA) to address the challenge by integrating the cross-modal prior knowledge of CLIP with multi-level class-specific discriminative representations of ViTs.
 
 ## Data Preparations
 <details>
